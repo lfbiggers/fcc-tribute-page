@@ -1,0 +1,25 @@
+body {
+  background-color: lightgray;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid black;
+}
+.justify {
+  text-align: center
+}
+#tribute-link:hover {
+  color: blue;
+}
+.boxedtext {
+  background-color: white;
+  margin: 0 auto;
+  border: 10px solid black;
+  width: 1000px;
+  height: auto;
+  padding: 25px; 
+}
